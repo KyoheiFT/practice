@@ -270,3 +270,4 @@ Received Import Request.
 Start importing Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJetAI.prefab using Guid(6f7604981ce4c064cbe5284c437c5699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60b021f6ac666922d5785d519b7f5be') in 0.094873 seconds
   Import took 0.100393 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
